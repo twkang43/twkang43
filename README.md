@@ -19,6 +19,7 @@
 
 - <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+   <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 
 ---
 
