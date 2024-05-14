@@ -1,7 +1,7 @@
 ### About me
 - 😶 Taewook Kang (강태욱)
-- 🎓 Department of Computer Science, Hanyang University (Mar. 2021 - Present (Expected Feb. 2024))
-- 💼 Undergraduate Intern @ Advanced Robot Control Lab., KIST (Sep. 2023 - Present (Expected June. 2024))
+- 🎓 Department of Computer Science, Hanyang University (Mar. 2021 - Present)
+- 💼 Undergraduate Intern @ Advanced Robot Control Lab., KIST (Sep. 2023 - Present)
 - 🎯 Interested in Generative Models, Anomaly Detection, Deep Reinforcement Learning, Computer Vision
 
 ---
