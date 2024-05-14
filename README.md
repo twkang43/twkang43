@@ -1,7 +1,7 @@
 ### About me
 - 😶 Taewook Kang (강태욱)
-- 🎓 Department of Computer Science, Hanyang University (Mar. 2021 - Present)
-- 💼 Undergraduate Intern @ Advanced Robot Control Lab., KIST (Sep. 2023 - Present)
+- 🎓 Department of Computer Science, Hanyang University (Mar. 2021 - Present (Expected Feb. 2024))
+- 💼 Undergraduate Intern @ Advanced Robot Control Lab., KIST (Sep. 2023 - Present (Expected June. 2024))
 - 🎯 Interested in Generative Models, Anomaly Detection, Deep Reinforcement Learning, Computer Vision
 
 ---
@@ -25,6 +25,7 @@
 
 ### Contact
 - ✉️ twkang43@gmail.com
+- ✉️ twkang43@hanyang.ac.kr
 
 <!--
 **twkang43/twkang43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
