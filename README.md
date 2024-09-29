@@ -2,7 +2,7 @@
 - 😶 Taewook Kang (강태욱)
 - 🎓 Undergraduate Student @ Department of Computer Science, Hanyang University (Mar. 2021 - Present)
 - 💼 Undergraduate Research Intern @ [Advanced Robot Control Lab.](https://sites.google.com/view/kist-arc/), KIST (Sep. 2023 - Jun. 2024)
-- 🎯 Interested in Robot Learning, Task and Motion Planning, Human-Robot Interaction, Embodied AI
+- 🎯 Interested in Embodied AI, Robotic Perception, Task and Motion Planning, Human-Robot Interaction.
 
 ---
 
