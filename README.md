@@ -1,16 +1,9 @@
 ### About me
 - 😶 Taewook Kang (강태욱) [[cv](https://twkang43.github.io/cv/)][[website](https://twkang43.github.io)]
 - 🎯 Interested in Embodied AI, Robotic Perception, Task and Motion Planning, Human-Robot Interaction
-
-### Education
 - 🎓 Undergraduate Student @ Department of Computer Science, Hanyang University (Mar. 2021 - Present)
-  
-
-### Research Experience
 - 🧑‍💻 Undergraduate Researcher @ [HYU Machine Learning Lab](http://hyumllab.hanyang.ac.kr), Hanyang University (Sep. 2024 - Present)
-- 🤖 Undergraduate Research Intern @ [Advanced Robot Control Lab.](https://sites.google.com/view/kist-arc/), KIST (Sep. 2023 - Jun. 2024)
   
-
 ### Selected Languages & Tools
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
