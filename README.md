@@ -3,9 +3,10 @@
 - 🎯 Interested in Embodied AI, Robotic Perception, Task and Motion Planning, Human-Robot Interaction
 - 🎓 Undergraduate Student @ Department of Computer Science, Hanyang University (Mar. 2021 - Present)
 - 🧑‍💻 Undergraduate Researcher @ [HYU Machine Learning Lab](http://hyumllab.hanyang.ac.kr), Hanyang University (Sep. 2024 - Present)
-  
-### Selected Languages & Tools
+
 ---
+
+### Selected Languages & Tools
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -20,8 +21,9 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
    <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 
-### Contact
 ---
+
+### Contact
 - ✉️ twkang43@gmail.com
 - ✉️ twkang43@hanyang.ac.kr
 
