@@ -1,5 +1,5 @@
 ### About me
-- 😶 Taewook Kang (강태욱)
+- 😶 Taewook Kang (강태욱) [[cv](twkang43.github.io/cv/)][[website](twkang43.github.io)]
 - 🎓 Undergraduate Student @ Department of Computer Science, Hanyang University (Mar. 2021 - Present)
 - 💼 Undergraduate Research Intern @ [Advanced Robot Control Lab.](https://sites.google.com/view/kist-arc/), KIST (Sep. 2023 - Jun. 2024)
 - 🎯 Interested in Embodied AI, Robotic Perception, Task and Motion Planning, Human-Robot Interaction.
