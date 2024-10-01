@@ -1,6 +1,6 @@
 ### About me
 - 😶 Taewook Kang (강태욱) [[cv](https://twkang43.github.io/cv/)][[website](https://twkang43.github.io)]
-- 🎯 Interested in Embodied AI, Robotic Perception, Task and Motion Planning, Human-Robot Interaction
+- 🎯 Interested in Embodied AI, Robotic Perception, Task and Motion Planning, Robot Learning, Human-Robot Interaction
 - 🎓 Undergraduate Student @ Department of Computer Science, Hanyang University (Mar. 2021 - Present)
 
 ---
