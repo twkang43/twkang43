@@ -23,7 +23,6 @@
 ---
 
 ### Contact
-- ✉️ twkang43@gmail.com
 - ✉️ twkang43@hanyang.ac.kr
 
 <!--
