@@ -1,7 +1,7 @@
 ### About me
 - 😶 Taewook Kang (강태욱) [[cv](https://twkang43.github.io/cv/)][[website](https://twkang43.github.io)]
 - 🎓 Undergraduate Student @ Department of Computer Science, Hanyang University (Mar. 2021 - Present)
-- 🎯 Interested in Embodied AI, Hierarchical Planning, Video Understanding, Human-Robot Interaction.
+- 🎯 Interested in Embodied AI, Planning, Video Understanding, Human-Robot Interaction.
 
 ---
 
