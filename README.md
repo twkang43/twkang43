@@ -1,5 +1,5 @@
 ### About me
-- 😶 Taewook Kang (강태욱) [[cv](https://twkang43.github.io/assets/files/curriculum_vitae.pdf))][[website](https://twkang43.github.io)]
+- 😶 Taewook Kang (강태욱) [[cv](https://twkang43.github.io/assets/files/curriculum_vitae.pdf)][[website](https://twkang43.github.io)]
 - 🎓 Undergraduate Student @ Department of Computer Science, Hanyang University (Mar. 2021 - Present)
 - 🎯 Interested in Embodied AI, Open-ended Generalist Agents, Video Understanding.
 
