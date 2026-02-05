@@ -2,7 +2,7 @@
 - 😶 Taewook Kang [[cv](https://twkang43.github.io/assets/files/curriculum_vitae.pdf)][[website](https://twkang43.github.io)]
 - 🏫 M.S. Student in Artificial Intelligence @ Seoul National University
 - 🤖 Research Assistant @ SNU Machine Perception and Reasoning Lab
-- 🎯 Interested in Robotics, Machine Learning.
+- 🎯 Interested in Embodied AI, Machine Learning, Robotics.
 
 ---
 
